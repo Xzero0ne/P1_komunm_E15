@@ -1,11 +1,12 @@
-# P1_komunm_E15
+#komnum 
+    
+    
+    # include <stdio.h> 
+    # include <math.h> 
+    # include <stdlib.h>
 
-# include <stdio.h> 
-# include <math.h> 
-# include <stdlib.h>
 
-
-int main(){
+    int main(){
     float atas, bawah, x, fA, fB, fX; int iterasi;
     printf("f(x) = exp(x) + x\n");
     printf("Batas atas\t: "); 
